@@ -1,0 +1,8 @@
+Name of employee  :Christian
+Address during leave  :161 Miller st
+Contact Number :0853895032
+Type of leave :Annual leave
+From(including) :2020/09/15
+To(including) :2020/09/30
+No. of working days  :15
+Remarks  :Family Affairs

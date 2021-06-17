@@ -1,0 +1,332 @@
+		Methods of Measurement of Radio-Noise Emissions from Low- Voltage Electrical and Electronic Equipment in the Range of 9 kHz to 40 GHz	 	   
+	International Electrotechnical Vocabulary. Chapter 161: Electromagnetic compatibility	   
+	High-voltage test techniques. Part 1: General definitions and test requirements	   
+	High-voltage test techniques - Part 2: Measuring systems	   
+	High-voltage test techniques - Part 3: Definitions and requirements for on-site testing	   
+	Electroacoustics - Hearing aids - Part 13: Electromagnetic compatibility (EMC)	   
+	Measuring relays and protection equipment - Part 26: Electromagnetic compatibility requirements	   
+	Low-voltage electrical installations - Part 4-44: Protection for safety - Protection against voltage disturbances and electromagnetic disturbance	   
+	Transitions, pulses and related waveforms-Terms, definitions and algorithms	   
+	Electrical and electronic installations in ships - Electromagnetic compatibility (EMC) - Ships with a metallic hull	   
+	Medical electrical equipment - Part 1-2: General requirements far basic safety and essential performance - Collateral Standard: Electromagnetic disturbances - Requirements and tests	   
+	Medical electrical equipment - Part 2-2: Particular requirements far the basic safety and essential performance of high frequency surgical equipment and high frequency surgical accessories	   
+	Medical electrical equipment - Part 4-2: Guidance and interpretation - Electromagnetic immunity: performance of medical electrical equipment and medical electrical systems	   
+	Cabled distribution systems for television and sound signals - Part 2: Electromagnetic compatibility for equipment	   
+	Cabled distribution systems for television and sound signals - Part 12: Electromagnetic compatibility of systems	   	   
+	Guide on methods of measurement of short duration transients on low-voltage power and signal lines	   
+	Telecontrol equipment and systems - Part 2: Operating conditions - Section 1: Power supply and electromagnetic compatibility	   
+	Guidance information on the application of capacitors, resistors, inductors and complete filter units for electromagnetic interference suppression	   
+	Arc welding equipment - Part 10: Electromagnetic compatibility (EMC) requirements	   
+Electromagnetic compatibility (EMC) - Part 1: General - Section1: Application and interpretation of fundamental definitions and terms	   
+Electromagnetic compatibility (EMC) - Part 1-2: General - Methodology for the achievement of the functional safety of electrical and electronic equipment with regard to electromagnetic phenomena	   
+Electromagnetic compatibility (EMC) - Part 1-3: General - The effects of high-altitude EMP (HEMP) on civil equipment and systems	   
+Electromagnetic compatibility (EMC) - Part 1-4: General - Historical rationale for the limitation of power-frequency conducted harmonic current emissions from equipment, in the frequency range up to 2 kHz	   
+Electromagnetic compatibility (EMC) - Part 1-5: General - High power electromagnetic (HPEM) effects on civil systems	   
+Electromagnetic compatibility (EMC) - Part 1-6: General - Guide to the assessment of measurement uncertainty	   
+Electromagnetic compatibility (EMC) - Part 1-7: General - Power factor in single-phase systems under non-sinusaidol conditions	   
+Electromagnetic compatibility (EMC) - Part 2: Environment - Section 1: Description of the environment - Electromagnetic environment for low-frequency conducted disturbances and signaling in public power supply systems	   
+		Electromagnetic compatibility (EMC) - Part 2-2: Environment - Compatibility levels for low-frequency conducted disturbances and signaling in public low-voltage power supply systems	   
+Electromagnetic compatibility (EMC) - Part 2: Environment - Section 3: Description of the environment - Radiated and nonnetwork-frequency-related conducted phenomena	   	   
+	Electromagnetic compatibility (EMC) - Part 2-4: Environment - Compatibility levels in industrial plants for low-frequency conducted disturbances	   
+Electromagnetic compatibility (EMC) - Part 2: Environment- Section 5: Classification of electromagnetic environments. Basic EMC publication	   
+Electromagnetic compatibility (EMC) - Part 2: Environment - Section 6: Assessment of the emission levels in the power supply of industrial plants as regards low-frequency conducted disturbances	   
+Electromagnetic compatibility (EMC) - Part 2: Environment - Section 7: Low frequency magnetic fields in various environments	   
+Electromagnetic compatibility (EMC) - Part 2-8: Environment - Voltage dips and short interruptions on public electric power supply systems with statistical measurement results	   
+	Electromagnetic compatibility (EMC) - Part 2: Environment - Section 9: Description of HEMP environment - Radiated disturbance. Basic EMC publication	   
+	Electromagnetic compatibility (EMC) - Part 2-10: Environment - Description of HEMP environment-Conducted disturbance	   
+	Electromagnetic compatibility (EMC) - Part 2-11: Environment - Classification of HEMP environments	   
+	Electromagnetic compatibility (EMC) - Part 2-12: Environment - Compatibility levels for low-frequency conducted disturbances and signaling in public medium-voltage power supply systems	   
+	Electromagnetic compatibility (EMC) - Part 2-13: Environment - High-power electromagnetic (HPEM) environments - Radiated and conducted	   
+Electromagnetic compatibility (EMC) - Part 2-14: Environment - Overvoltages on public electricity distribution networks	   
+	Electromagnetic compatibility (EMC) - Part 3-2: Limits - Limits for harmonic current emissions (equipment input current < 16A per phase)	   
+	Electromagnetic compatibility (EMC) - Part 3-3: Limits - Limitation of voltage changes, voltage fluctuations and flicker in public low-voltage supply systems, for equipment with rated current = 16 A per phase and not subject to conditional connection	   
+Electromagnetic compatibility (EMC) - Part 3-4: Limits - Limitation of emission of harmonic currents in low-voltage power supply systems for equipment with rated current greater than 16 A	   
+Electromagnetic compatibility (EMC) - Part 3: Limits - Section5: Limitation of voltage fluctuations and flicker in low-voltage power supply systems for equipment with rated current greater than 16 A	   
+Electromagnetic compatibility Assessment of emission limits power systems - Basic EMC pub	EMC) - Part 3: Limits - Section 6: or distorting loads in MV and HV ication	   
+Electromagnetic compatibility Assessment of emission limits power systems - Basic EMC pub	EMC) - Part 3: Limits - Section 7: or fluctuating loads in MV and HV ication	   
+	Electromagnetic compatibility (EMC) - Part 3: Limits - Section 8: Signaling on low-voltage electrical installations - Emission levels, frequency bands and electromagnetic disturbance levels	   
+	Electromagnetic compatibility (EMC) - Part 3-11: Limits - Limitation of voltage changes, voltage fluctuations and flicker in public low- voltage supply systems - Equipment with rated current <= 75 A and subject to conditional connection	      
+	Electromagnetic compatibility (EMC) - Part 3-12: Limits - Limits for harmonic currents produced by equipment connected to public law-voltage systems with input current >16 A and <=75A per phase	   
+Electromagnetic compatibility (EMC) - Part 3-13: Limits - Assessment of emission limits for the connection of unbalanced installations to MV, HV and EHV power systems	   
+Electromagnetic compatibility (EMC) - Part 3-14: Assessment of emission limits for harmonics, interharmonics, voltage fluctuations and unbalance for the connection of disturbing installations to LV power systems	   
+Electromagnetic compatibility (EMC) - Part 3-15: Limits - Assessment of low frequency electromagnetic immunity and emission requirements for dispersed generation systems in LV network	   
+Electromagnetic compatibility (EMC) - Port 4-1: Testing and measurement techniques - Overview of IEC 61000-4 series	   
+	Electromagnetic compatibility (EMC)- Part 4-2: Testing and measurement techniques - Electrostatic discharge immunity test	   
+	Electromagnetic compatibility (EMC) - Part 4-3: Testing and measurement techniques - Radiated, radio-frequency, electromagnetic field immunity test	   
+	Electromagnetic compatibility (EMC) - Part 4-4: Testing and measurement techniques - Electrical fast transient/burst immunity test	   
+	Electromagnetic compatibility (EMC) - Part 4-5: Testing and measurement techniques - Surge immunity test	   
+	Electromagnetic compatibility (EMC) - Part 4-6: Testing and measurement techniques - Immunity to conducted disturbances, induced by radio-frequency fields	   
+	Electromagnetic compatibility (EMC) - Port 4-7: Testing and measurement techniques - General guide on harmonics and interharmonics measurements and instrumentation, for power supply systems and equipment connected thereto	   
+	Electromagnetic compatibility (EMC) - Part 4-8: Testing and measurement techniques - Power frequency magnetic field immunity test	   
+	Electromagnetic compatibility (EMC) - Part 4-9: Testing and measurement techniques - Impulse magnetic field immunity test	   
+	Electromagnetic compatibility (EMC) - Part 4-10: Testing and measurement techniques - Damped oscillatory magnetic field immunity test	   
+	Electromagnetic compatibility (EMC) - Part 4-11: Testing and measurement techniques - Voltage dips, short interruptions and voltage variations immunity tests	   
+	Electromagnetic compatibility (EMC) - Part 4-12: Testing and measurement techniques - Ring wave immunity test	   
+	Electromagnetic compatibility (EMC) - Part 4-13: Testing and measurement techniques - Harmonics and interharmonics including mains signaling at a.c. power port, low frequency immunity tests	   
+	Electromagnetic compatibility (EMC) - Part 4-14: Testing and measurement techniques - Voltage fluctuation immunity test	   
+	Electromagnetic compatibility (EMC) - Part 4: Testing and measurement techniques-Section 15: Flickermeter-Functional and design specifications	   
+	Electromagnetic compatibility (EMC) - Part 4-16: Testing and measurement techniques - Test for immunity to conducted, common mode disturbances in the frequency range 0 Hz to 150 kHz	   	   
+	Electromagnetic compatibility (EMC) - Part 4-17: Testing and measurement techniques - Ripple on d.c. input power port immunity test	   
+	Electromagnetic compatibility (EMC) - Part 4-18: Testing and measurement techniques - Damped oscillatory wave immunity test	   
+	Electromagnetic compatibility (EMC) - Part 4-19: Testing and measurement techniques - Test for immunity to conducted, differential made disturbances and signalling in the frequency range 2 kHz to 150 kHz at a.c. power ports	   
+	Electromagnetic compatibility (EMC) - Part 4-20: Testing and measurement techniques - Emission and immunity testing in transverse electromagnetic (TEM) waveguides	   
+	Electromagnetic compatibility (EMC) - Part 4-21: Testing and measurement techniques - Reverberation chamber test methods	   
+	Electromagnetic compatibility (EMC) - Part 4-22: Testing and measurement techniques - Radiated emissions and immunity measurements in fully anechoic rooms (FARs)	   
+	Electromagnetic compatibility (EMC) - Part 4-23: Testing and measurement techniques - Test methods far protective devices for HEMP and other radiated disturbances	   
+	Electromagnetic compatibility (EMC) - Part 4-24: Testing and measurement techniques - Test methods far protective devices for HEMP conducted disturbance	   
+	Electromagnetic compatibility (EMC) - Part 4-25: Testing and measurement techniques - HEMP immunity test methods for equipment and systems	   
+	Electromagnetic compatibility (EMC) - Part 4-27: Testing and measurement techniques - Unbalance, immunity test	   
+	Electromagnetic compatibility (EMC) - Part 4-28: Testing and measurement techniques - Variation of power frequency, immunity test	   
+	Electromagnetic compatibility (EMC) - Part 4-29: Testing and measurement techniques - Voltage dips, short interruptions and voltage variations on d.c. input power port immunity tests	   
+	Electromagnetic compatibility (EMC) - Part 4-30: Testing and measurement techniques - Power quality measurement methods	   
+	Electromagnetic compatibility (EMC) - Part 4-31: Testing and measurement techniques - AC mains ports broadband conducted disturbance immunity test	   
+Electromagnetic compatibility (EMC) - Part 4-32: Testing and measurement techniques - High-altitude electromagnetic pulse (HEMP) simulator compendium	   
+	Electromagnetic compatibility (EMC) - Part 4-33: Testing and measurement techniques - Measurement methods for high- power transient parameters	   
+	Electromagnetic compatibility (EMC) - Part 4-34: Testing and measurement techniques - Voltage dips, short interruptions and voltage variations immunity tests for equipment with input current more than 16 A per phase	   
+Electromagnetic compatibility (EMC) - Part 4-35: Testing and measurement techniques - HPEM simulator compendium	   
+	Electromagnetic compatibility (EMC) - Part 4-36: Testing and measurement techniques - IEMI immunity test methods for eauiament and systems	   
+Electromagnetic compatibility (EMC) - Calibration and verification protocol for harmonic emission compliance test systems	   
+	Electromagnetic compatibility (EMC) - Part 4-38: Testing and measurement techniques - Test, verification and calibration protocol for voltage fluctuation and flicker compliance test systems	      
+Electromagnetic compatibility (EMC) - Part 5: Installation and mitigation guidelines - Section 1: General considerations - Basic EMC publication	   
+Electromagnetic compatibility (EMC) - Part 5: Installation and mitigation guidelines - Section 2: Earthing and cabling	   
+Electromagnetic compatibility (EMC) - Part 5-3: Installation and mitigation guidelines - HEMP protection concepts	   
+Electromagnetic compatibility (EMC) - Part 5: Installation and mitigation guidelines - Section 4: Immunity to HEMP - Specifications for protective devices against HEMP radiated disturbance. Basic EMC Publication	   
+	Electromagnetic compatibility (EMC) - Part 5: Installation and mitigation guidelines - Section 5: Specification of protective devices for HEMP conducted disturbance. Basic EMC Publication	   
+Electromagnetic compatibility (EMC) - Part 5-6: Installation and mitigation guidelines - Mitigation of external EM influences	   
+	Electromagnetic compatibility (EMC) - Part 5-7: Installation and mitigation guidelines - Degrees of protection provided by enclosures against electromagnetic disturbances (EM code)	   
+	Electromagnetic compatibility (EMC) - Part 5-8: Installation and mitigation guidelines - HEMP protection methods for the distributed infrastructure	   
+	Electromagnetic compatibility (EMC) - Part 5-9: Installation and mitigation guidelines - System-level susceptibility assessments for HEMP and HPEM	   
+	Electromagnetic compatibility (EMC) - Part 6-1: Generic standards - Immunity standard for residential, commercial and light-industrial environments	   
+	Electromagnetic compatibility (EMC) - Part 6-2: Generic standards - Immunity standard for industrial environments	   
+	Electromagnetic compatibility (EMC) - Part 6-3: Generic standards - Emission standard far residential, commercial and light-industrial environments	   
+	Electromagnetic compatibility EMC) - Part 6-4: Generic standards - Emission standard ar industrial environments	   
+	Electromagnetic compatibility (EMC) - Part 6-5: Generic standards - Immunity for power station and substation environments	   
+	Electromagnetic compatibility (EMC) - Part 6-6: Generic standards - HEMP immunity for indoor equipment	   
+	Electromagnetic compatibility (EMC) - Part 6-7: Generic standards - Immunity requirements for equipment intended to perform functions in a safety-related system (functional safety) in industrial locations	   
+	Electrical equipment for measurement, control and laboratory use - EMC requirements - Part 1: General requirements	   
+	Electrical equipment for measurement, control and laboratory use - EMC requirements - Part 2-1: Particular requirements - Test configurations, operational conditions and performance criteria for sensitive test and measurement equipment for EMC unprotected applications	   
+	Electrical equipment for measurement, control and laboratory use - EMC requirements - Part 2-2: Particular requirements - Test configurations, operational conditions and performance criteria for portable test, measuring and monitoring equipment used in low-voltage distribution systems	      
+	Electrical equipment for measurement, control and laboratory use - EMC requirements - Part 2-3: Particular requirements - Test configuration, operational conditions and performance criteria for transducers with integrated or remote signal conditioning	   
+	Electrical equipment far measurement, control and laboratory use - EMC requirements - Part 2-4: Particular requirements - Test configurations, operational conditions and performance criteria for insulation monitoring devices according to IEC 61557-8 and for equipment for insulation fault location according to IEC 61557-9	   
+	Electrical equipment for measurement, control and laboratory use - EMC requirements - Part 2-5: Particular requirements - Test configurations, operational conditions and performance criteria for field devices with field bus interfaces according to IEC 61784-1	   
+	Electrical equipment for measurement, control and laboratory use - EMC requirements - Part 2-6: Particular requirements - In vitro diagnostic (IVD) medical equipment	   
+	Electrical equipment for measurement, control and laboratory use - EMC requirements - Part 3-1: Immunity requirements for safety-related systems and far equipment intended to perform safety-related functions (functional safety) - General industrial applications	   
+	Electrical equipment for measurement, control and laboratory use - EMC requirements - Part 3-2: Immunity requirements for safety-related systems and for equipment intended to perform safety-related functions (functional safety) - Industrial applications with specified electromagnetic environment	   
+	Electrostatics - Part 3-1: Methods for simulation of electrostatic effects - Human body model (HBM) electrostatic discharge test waveforms	   
+	Residual current-operated protective devices (RCDs) for household and similar use - Electromagnetic compatibility	   
+	Adjustable speed electrical power drive systems - Part 3: EMC requirements and specific test methods	   
+	Integrated circuits - Measurement of electromagnetic emissions, 150 kHz to 1 GHz - Part 1: General conditions and definitions	   
+	Uninterruptible power systems (UPS) - Part 2: Electromagnetic compatibility EMC) requirements	   
+	Power transformers, power supply units, reactors and similar products - EMC requirements	   
+	Metallic communication cable test methods - Part 4-0: Electromagnetic compatibility (EMC) - Relationship between surface transfer impedance and screening attenuation, recommended limits	   
+	Metallic communication cable test methods - Part 4-1: Electromagnetic compatibility (EMC) - Introduction to electromagnetic screening measurements	   
+	Metallic communication cable test methods - Part 4-2: Electromagnetic compatibility (EMC) - Screening and coupling attenuation - Injection clamp method	   
+	Metallic communication cable test methods - Part 4-3: Electromagnetic compatibility (EMC) - Surface transfer impedance-Triaxial method	   
+	Metallic communication cable test methods - Part 4-4: Electromagnetic compatibility (EMC) - Test method for measuring of the screening attenuation as up to and above 3GHz, triaxial method	   
+	Metallic communication cables test methods - Part 4-5: Electromagnetic compatibility (EMC) - Coupling or screening attenuation - Absorbing clamp method	   	   
+	Metallic communication cable test methods - Part 4-6: Electromagnetic compatibility (EMC) - Surface transfer impedance - Line injection method	   < <
+	Metallic communication cable test methods - Part 4-7: Electromagnetic compatibility (EMC) - Test method for measuring of transfer impedance ZT and screening attenuation aS or coupling attenuation aC of connectors and assemblies up to and above 3 GHz-Triaxial tube in tube method	   
+	Metallic communication cable test methods - Part 4-8: Electromagnetic compatibility (EMC) - Capacitive coupling admittance	   
+	Metallic communication cable test methods - Part 4-9: Electromagnetic compatibility (EMC) - Coupling attenuation of screened balanced cables, triaxial method	   
+	Metallic communication cable test methods - Part 4-10: Electromagnetic compatibility (EMC) - Transfer impedance and screening attenuation of feed-throughs and electromagnetic gaskets - Double coaxial test method	   
+	Metallic communication cable test methods - Part 4-11: Electromagnetic compatibility (EMC) - Coupling attenuation or screening attenuation of patch cords, coaxial cable assemblies, pre-connectorized cables-Absorbing clamp method	   
+	Metallic communication cable test methods - Part 4-12: Electromagnetic compatibility (EMC) - Coupling attenuation or screening attenuation of connecting hardware - Absorbing clamp method	   
+	Metallic communication cable test methods - Part 4-13: Electromagnetic compatibility (EMC) - Coupling attenuation of links and channels (laboratory conditions) - Absorbing clamp method	   
+	Metallic communication cable test methods - Part 4-14: Electromagnetic compatibility (EMC) - Coupling attenuation of cable assemblies (Field conditions) absorbing clamp method	   
+	Metallic communication cable test methods - Part 4-15: Electromagnetic compatibility (EMC) - Test method for measuring transfer impedance and screening attenuation - or coupling attenuation with triaxial cell	   
+	Railway applications - Electromagnetic compatibility - Part 1: General	   
+	Railway applications - Electromagnetic compatibility - Part 2: Emission of the whole railway system to the outside world	   
+	Railway applications - Electromagnetic compatibility - Part 3-1: Rolling stock-Train and complete vehicle	   
+	Railway applications - Electromagnetic compatibility - Part 3-2: Rolling stock-Apparatus	   
+	Railway applications - Electromagnetic compatibility - Part 4: Emission and immunity of the signalling and telecommunications apparatus	   
+	Railway applications - Electromagnetic compatibility - Part 5: Emission and immunity of fixed power supply installations and apparatus	   
+	Protection against lightning - Part 1: General principles	   
+	Protection against lightning - Part 2: Risk management	   
+	Protection against lightning - Part 3: Physical damage to structures and life hazard	 	   
+	Protection against lightning - Part 4: Electrical and electronic systems within structures	   
+	Static transfer systems (STS) - Part 2: Electromagnetic compatibility (EMC) requirements	   
+	Electrical installations in ships - Electromagnetic compatibility - Optimising of cable installations on ships - Testing method of routing distance	 	   
+	Industrial, scientific and medical (ISM) radio-frequency equipment - Electromagnetic disturbance characteristics - Limits and methods of measurement	   
+	Vehicles, boats and internal combustion engines - Radio disturbance characteristics - Limits and methods of measurement for the protection of off-board receivers	   
+	Sound and television broadcast receivers and associated equipment - Radio disturbance characteristics - Limits and methods of measurement	   
+	Electromagnetic compatibility - Requirements for household appliances, electric tools and similar apparatus - Part l:Emission	   
+	Electromagnetic compatibility - Requirements for household appliances, electric tools and similar apparatus - Part 2:Immunity - Product family standard	   
+	Limits and methods of measurement of radio disturbance characteristics of electrical lighting and similar equipment	   
+	Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-1: Radio disturbance and immunity measuring apparatus - Measuring apparatus	   
+	Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-2: Radio disturbance and immunity measuring apparatus - Coupling devices for conducted disturbance measurements	   
+	Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-3: Radio disturbance and immunity measuring apparatus - Ancillary equipment - Disturbance power	   
+	Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-4: Radio disturbance and immunity measuring apparatus - Antennas and test sites for radiated disturbance measurements	   
+	Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-5: Radio disturbance and immunity measuring apparatus - Antenna calibration sites and reference test sites for 5 MHz to 18 GHz	   
+	Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-6: Radio disturbance and immunity measuring apparatus - EMC antenna calibration	   
+	Specification for radio disturbance and immunity measuring apparatus and methods - Part 2-1: Methods of measurement of disturbances and immunity - Conducted disturbance measurements	   
+	Specification for radio disturbance and immunity measuring apparatus and methods - Part 2-2: Methods of measurement of disturbances and immunity - Measurement of disturbance power	   
+	Specification for radio disturbance and immunity measuring apparatus and methods - Part 2-3: Methods of measurement of disturbances and immunity - Radiated disturbance measurements	 
+	Specification for radio disturbance and immunity measuring apparatus and methods - Port 2-4: Methods of measurement of disturbances and immunity - Immunity measurements	   
+	Specification for radio disturbance and immunity measuring apparatus and methods - Port 2-5: In situ measurements for disturbing emissions produced by physically large equipment	   
+	Specification for radio disturbance and immunity measuring apparatus and methods - Part 3: CISPR technical reports	   
+Specification for radio disturbance and immunity measuring apparatus and methods - Port 4-l: Uncertainties, statistics and limit modelling - Uncertainties in standardized EMC tests	   
+	Specification for radio disturbance and immunity measuring apparatus and methods - Part 4-2: Uncertainties, statistics and limit modelling - Measurement instrumentation uncertainty	   
+Specification for radio disturbance and immunity measuring apparatus and methods - Part 4-3: Uncertainties, statistics and limit modelling - Statistical considerations in the determination of EMC compliance of mass-produced products	   
+Specification for radio disturbance and immunity measuring apparatus and methods - Part 4-4: Uncertainties, statistics and limit modelling - Statistics of complaints and a model for the calculation of limits for the protection of radio services	   
+Specification for radio disturbance and immunity measuring apparatus and methods - Part 4-5: Uncertainties, statistics and limit modelling - Conditions for the use of alternative test methods	   
+	Methods of measurement of the suppression characteristics of passive EMC filtering devices	   
+	Radio interference characteristics of overhead power lines and high-voltage equipment - Part l: Description of phenomena	   
+	Radio interference characteristics of overhead power lines and high-voltage equipment - Part 2: Methods of measurement and procedure for determining limits	   
+	Radio interference characteristics of overhead power lines and high-voltage equipment - Part 3: Code of practice for minimizing the generation of radio noise	   
+	Sound and television broadcast receivers and associated equipment - Immunity characteristics - Limits and methods of measurement	   
+	Information technology equipment - Immunity characteristics - Limits and methods of measurement *Will be withdrawn July 2020	   
+	Vehicles, boats and internal combustion engines - Radio disturbance characteristics - Limits and methods of measurement for the protection of on-board receivers	   
+	Electromagnetic compatibility of multimedia equipment - Emission requirements	   
+	Electromagnetic compatibility of multimedia equipment- Immunity requirements	   
+	Earth-moving machinery - Electromagnetic compatibility
+	-	Electromagnetic compatibility (EMC) - Part 1-2: General - Methodology for the achievement of functional safety of electrical and electronic systems including equipment with regard to electromagnetic phenomena
+ -	Electromagnetic compatibility (EMC) - Part 2-2: Environment - Compatibility levels for low- frequency conducted disturbances and signalling in public low-voltage power supply systems
+- 	Electromagnetic compatibility (EMC) - Part 2-4: Environment - Compatibility levels in industrial plants for low-frequency conducted disturbances
+- 	Electromagnetic compatibility (EMC) - Part 2: Environment - Section 9: Description of HEMP environment - Radiated disturbance
+-	Electromagnetic compatibility (EMC) - Part 2: Environment - Section 10: Description of HEMP environment - Conducted disturbance
+- 	Electromagnetic compatibility (EMC) - Part 2-11: Environment - Classification of HEMP environments
+- 	Electromagnetic compatibility (EMC) - Part 2-12: Environment - Compatibility levels for low-frequency conducted disturbances and signalling in public medium-voltage power supply systems 
+	Electromagnetic compatibility (EMC) - Part 2-13: Environment - High-power electromagnetic (HPEM) environments - Radiated and conducted
+ 	Electromagnetic compatibility (EMC) - Part 3-2: Limits - Limits for harmonic current emissions (equipment input current = 16 A per phase)
+ 	Electromagnetic compatibility (EMC) - Part 3-3: Limits - Limitation of voltage changes, voltage fluctuations and flicker in public low-voltage supply systems, for equipment with rated current = 16 A per phase and not subject to conditional connection
+ 	Electromagnetic compatibility (EMC) - Part 3-8: Limits - Signalling on low-voltage electrical installations - Emission levels, frequency bands and electromagnetic disturbance levels
+-	Electromagnetic compatibility (EMC) - Part 3-11: Limits - Limitation of voltage changes, voltage fluctuations and flicker in public low-voltage supply systems - Equipment with rated current = 75 A and subject to conditional connection
+-	Electromagnetic compatibility (EMC) - Part 3-12: Limits - Limits for harmonic currents produced by equipment connected to public low-voltage systems with input current > 16 A and = 75 A per phase
+-	Electromagnetic compatibility (EMC) - Part 4-2: Testing and measurement techniques - Electrostatic discharge immunity test
+-	Electromagnetic compatibility (EMC) - Part 4-3: Testing and measurement techniques - Radiated, radio-frequency, electromagnetic field immunity test
+-	Electromagnetic compatibility (EMC) - Part 4-4: Testing and measurement techniques - Electrical fast transient/burst immunity test
+ 	Electromagnetic compatibility (EMC) - Part 4-5: Testing and measurement techniques - Surge immunity test
+- 	Electromagnetic compatibility (EMC) - Part 4-6: Testing and measurement techniques - Immunity to conducted disturbances, induced by radio-frequency fields
+- 	Electromagnetic compatibility (EMC) - Part 4-7: Testing and measurement techniques - General guide on harmonics and interharmonics measurements and instrumentation, for power supply systems and equipment connected thereto
+-	Electromagnetic compatibility (EMC) - Part 4-8: Testing and measurement techniques - Power frequency magnetic field immunity test
+-	Electromagnetic compatibility (EMC) - Part 4-9: Testing and measurement techniques - Impulse magnetic field immunity test
+- 	Electromagnetic compatibility (EMC) - Part 4-10: Testing and measurement techniques - Damped oscillatory magnetic field immunity test
+- 	Electromagnetic compatibility (EMC) - Part 4-11: Testing and measurement techniques - Voltage dips, short interruptions and voltage variations immunity tests for equipment with input current up to 16 A per phase 
+- 	Electromagnetic compatibility (EMC) - Part 4-12: Testing and measurement techniques - Ring wave immunity tests
+- 	Electromagnetic compatibility (EMC) - Part 4-13: Testing and measurement techniques - Harmonics and interharmonics including mains signalling at a.c. power port, low frequency immunity tests
+- 	Electromagnetic compatibility (EMC) - Part 4-14: Testing and measurement techniques - Voltage fluctuation immunity test for equipment with input current not exceeding 16 A per phase
+- 	Electromagnetic compatibility (EMC) - Part 4-15: Testing and measurement techniques - Flicker meter - Functional and design specifications
+- 	Electromagnetic compatibility (EMC) - Part 4-16: Testing and measurement techniques - Test for immunity to conducted, common mode disturbances in the frequency range 0 Hz to 150 kHz
+- 	Electromagnetic compatibility (EMC) - Part 4-17: Testing and measurement techniques - Ripple on d.c. input power port immunity test
+- 	Electromagnetic compatibility (EMC) - Part 4-18: Testing and measurement techniques - Damped oscillatory wave immunity test
+- 	Electromagnetic compatibility (EMC) - Part 4-19: Testing and measurement techniques - Test for immunity to conducted, differential mode disturbances and signalling in the frequency range 2 kHz to 150 kHz at a.c. power ports
+- 	Electromagnetic compatibility (EMC) - Part 4-20: Testing and measurement techniques - Emission and immunity testing in transverse electromagnetic (TEM) waveguides
+- 	Electromagnetic compatibility (EMC) - Part 4-21: Testing and measurement techniques - Reverberation chamber test methods
+- 	Electromagnetic compatibility (EMC) - Part 4-22: Testing and measurement techniques - Radiated emissions and immunity measurements in fully anechoic rooms (FARs)
+- 	Electromagnetic compatibility (EMC) - Part 4-23: Testing and measurement techniques - Test methods for protective devices for HEMP and other radiated disturbances
+- 	Electromagnetic compatibility (EMC) - Part 4-24: Testing and measurement techniques - Test methods for protective devices for HEMP conducted disturbance
+- 	Electromagnetic compatibility (EMC) - Part 4-25: Testing and measurement techniques - HEMP immunity test methods for equipment and systems
+- 	Electromagnetic compatibility (EMC) - Part 4-27: Testing and measurement techniques - Unbalance, immunity test for equipment with input current not exceeding 16 A per phase
+- 	Electromagnetic compatibility (EMC) - Part 4-28: Testing and measurement techniques - Variation of power frequency, immunity test for equipment with input current not exceeding 16 A per phase
+- 	Electromagnetic compatibility (EMC) - Part 4-29: Testing and measurement techniques - Voltage dips, short interruptions and voltage variations on d.c. input power port immunity tests 
+- 	Electromagnetic compatibility (EMC) - Part 4-30: Testing and measurement techniques - Power quality measurement methods
+- 	Electromagnetic compatibility (EMC) - Part 4-31: Testing and measurement techniques - AC mains ports broadband conducted disturbance immunity test
+- 	Electromagnetic compatibility (EMC) - Part 4-33: Testing and measurement techniques - Measurement methods for high-power transient parameters
+- 	Electromagnetic compatibility (EMC) - Part 4-34: Testing and measurement techniques - Voltage dips, short interruptions and voltage variations immunity tests for equipment with mains current more than 16 A per phase
+- 	Electromagnetic compatibility (EMC) - Part 4-36: Testing and measurement techniques - IEMI immunity test methods for equipment and systems
+- 	Electromagnetic compatibility (EMC) - Part 4-39: Testing and measurement techniques - Radiated fields in close proximity - Immunity test
+  	Electromagnetic compatibility (EMC) - Part 5: Installation and mitigation guidelines - Section 5: Specification of protective devices for HeMp conducted disturbance
+  	Electromagnetic compatibility (EMC) - Part 5-7: Degrees of protection provided by enclosures against electromagnetic disturbances (EM code)Generic standards
+-  	Electromagnetic compatibility (EMC) - Part 6-1: Generic standards - Immunity for residential, commercial and light-industrial environments
+-  	Electromagnetic compatibility (EMC) - Part 6-2: Generic standards - Immunity for industrial environments
+-  	Electromagnetic compatibility (EMC) - Part 6-3: Generic standards - Emission standard for residential, commercial and light-industrial environments
+-  	Electromagnetic compatibility (EMC) - Part 6-4: Generic standards - Emission standard for industrial environments
+-  	Electromagnetic compatibility (EMC) - Part 6-6: Generic standards - HEMP immunity for indoor equipment
+-  	Electromagnetic compatibility (EMC) - Part 6-7: Generic standards - Immunity requirements for equipment intended to perform functions in a safety-related system (functional safety) in industrial locationsTechnical reports and specifications
+- 	Electromagnetic compatibility (EMC) - Part 1: General - Section 1: Application and interpretation of fundamental definitions and terms 
+- 	Electromagnetic compatibility (EMC) - Part 1-3: General - The effects of high-altitude EMP (HEMP) on civil equipment and systems
+- 	Electromagnetic compatibility (EMC) - Part 1-4: General - Historical rationale for the limitation of power-frequency conducted harmonic current emissions from equipment, in the frequency range up to 2 kHz
+- 	Electromagnetic compatibility (EMC) - Part 1-5: General - High power electromagnetic (HPEM) effects on civil systems
+- 	Electromagnetic compatibility (EMC) - Part 1-6: General - Guide to the assessment of measurement uncertainty
+- 	Electromagnetic compatibility (EMC) - Part 1-7: General - Power factor in single-phase systems under non-sinusoidal conditions
+- 	Electromagnetic compatibility (EMC) - Part 1-8: General - Phase angles of harmonic current emissions and voltages in the public supply networks - Future expectations
+- 	Electromagnetic compatibility (EMC) - Part 2: Environment - Section 1: Description of the environment - Electromagnetic environment for low-frequency conducted disturbances and signalling in public power supply systems
+- 	Electromagnetic compatibility (EMC) - Part 2: Environment - Section 3: Description of the environment - Radiated and non-network-frequency-related conducted phenomena
+- 	Electromagnetic compatibility (EMC) - Part 2-5: Environment - Description and classification of electromagnetic environments
+- 	Electromagnetic compatibility (EMC) - Part 2: Environment - Section 6: Assessment of the emission levels in the power supply of industrial plants as regards low-frequency conducted disturbances
+- 	Electromagnetic compatibility (EMC) - Part 2: Environment - Section 7: Low frequency magnetic fields in various environments
+- 	Electromagnetic compatibility (EMC) - Part 2-8: Environment - Voltage dips and short interruptions on public electric power supply systems with statistical measurement results
+-	Electromagnetic compatibility (EMC) - Part 2-14: Environment - Overvoltages on public electricity distribution networks
+- 	Electromagnetic compatibility (EMC) - Part 3-4: Limits - Limitation of emission of harmonic currents in low-voltage power supply systems for equipment with rated current greater than 16 A (note: for currents > 16 A and = 75 A per phase this standard should be replaced with IEC EN 61000-3-12)
+- 	Electromagnetic compatibility (EMC) - Part 3-5: Limits - Limitation of voltage fluctuations and flicker in low-voltage power supply systems for equipment with rated current greater than 16 A
+ 	Electromagnetic compatibility (EMC) - Part 3-6: Limits - Assessment of emission limits for the connection of distorting installations to mV, HV and EHV power systems
+- 	 Electromagnetic compatibility (EMC) - Part 3-6: Limits - Assessment of emission limits for the connection of fluctuating installations to MV, HV and EHV power systems
+-	 Electromagnetic compatibility (EMC) - Part 3-13: Limits - Assessment of emission limits for the connection of unbalanced installations to MV, HV and EHV power systems
+-	 Electromagnetic compatibility (EMC) - Part 3-14: Limits - Assessment of emission limits for harmonics, interharmonics, voltage fluctuations and unbalance for the connection of disturbing installations to LV power systems
+- 	 Electromagnetic compatibility (EMC) - Part 3-15: Limits - Assessment of low frequency electromagnetic immunity and emission requirements for dispersed generation systems in LV network
+ 	 Electrmagnetic compatibility (EMC) - Part 4-1: Testing and measurement techniques - Overview of IEC 61000-4 series
+- 	 Electromagnetic compatibility (EMC) - Part 4-32: Testing and measurement techniques - High-altitude electromagnetic pulse (HEMP) simulator compendium
+-	 Electromagnetic compatibility (EMC) - Part 4-35: Testing and measurement techniques - HPEM simulator compendium
+-	 Electromagnetic compatibility (EMC) - Part 4-37: Testing and measurement techniques - Calibration and verification protocol for harmonic emission compliance test systems
+-	 Electromagnetic compatibility (EMC) - Part 4-38: Testing and measurement techniques - Test, verification and calibration protocol for voltage fluctuation and flicker compliance test systems
+-	 Electromagnetic compatibility (EMC) - Part 4-40: Testing and measurement techniques - Digital methods for the measurement of power quantities of modulated or distorted signals
+-	 Electromagnetic compatibility (EMC) - Part 5: Installation and mitigation guidelines - Section 1: General considerations - Basic EMC publication
+- 	 Electromagnetic compatibility (EMC) - Part 5: Installation and mitigation guidelines - Section 2: Earthing and cabling
+- 	 Electromagnetic compatibility (EMC) - Part 5-3: Installation and mitigation guidelines - HEMP protection concepts
+- 	 Electromagnetic compatibility (EMC) - Part 5: Installation and mitigation guidelines - Section 4: Immunity to HEMP - Specifications for protective devices against HEMP radiated disturbance
+- 	 Electromagnetic compatibility (EMC) - Part 5-6: Installation and mitigation guidelines - Mitigation of external EM influences
+- 	 Electromagnetic compatibility (EMC) - Part 5-8: Installation and mitigation guidelines - HEMP protection methods for the distributed infrastructure
+- 	 Electromagnetic compatibility (EMC) - Part 5-9: Installation and mitigation guidelines - System-level susceptibility assessments for HEMP and HPEM
+-	 Electromagnetic compatibility (EMC) - Part 5-10: Installation and mitigation guidelines - Guidance on the protection of facilities against HEMP and IEMI 
+-		Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-1: Radio disturbance and immunity measuring apparatus - Measuring apparatus
+- 	Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-2: Radio disturbance and immunity measuring apparatus - Coupling devices for conducted disturbance measurements
+- 	Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-3: Radio disturbance and immunity measuring apparatus - Ancillary equipment - Disturbance power
+-	 	Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-4: Radio disturbance and immunity measuring apparatus - Antennas and test sites for radiated disturbance measurements
+- 	Specification for radio disturbance and immunity measuring apparatus and methods - Part 1-5: Radio disturbance and immunity measuring apparatus - Antenna calibration sites and reference test sites for 5 MHz to 18 GHz
+- 	Specification for radio disturbance and immunity measuring apparatus and methods - Part6: Radio disturbance and immunity measuring apparatus - eMc antenna calibration
+- 	Specification for radio disturbance and immunity measuring apparatus and methods - Part1: Methods of measurement of disturbances and immunity - Conducted disturbance measurements
+- 	Specification for radio disturbance and immunity measuring apparatus and methods - Part 2-2: Methods of measurement of disturbances and immunity - Measurement of disturbance power
+- 	Specification for radio disturbance and immunity measuring apparatus and methods - Part 2-3: Methods of measurement of disturbances and immunity - Radiated disturbance measurements
+- 	Specification for radio disturbance and immunity measuring apparatus and methods - Part 2-4: Methods of measurement of disturbances and immunity - Immunity measurements
+- 	Specification for radio disturbance and immunity measuring apparatus and methods - Part 4-2: Uncertainties, statistics and limit modelling - Measurement instrumentation uncertainty 
+-	Electromagnetic compatibility (EMC) - Part 6-3: Generic standards - Emission standard for residential, commercial and light-industrial environments
+- 	Electromagnetic compatibility (EMC) - Part 6-4: Generic standards - Emission standard for industrial environmentsProduct family standards - emission
+-		Industrial, scientific and medical equipment - Radio-frequency disturbance characteristics - Limits and methods of measurement
+- 		Vehicles, boats and internal combustion engines - Radio disturbance characteristics - Limits and methods of measurement for the protection of off-board receivers
+-		Electromagnetic compatibility - Requirements for household appliances, electric tools and similar apparatus - Part 1: Emission
+- 		Limits and methods of measurement of radio disturbance characteristics of electrical lighting and similar equipment
+ 		Methods of measurement of the suppression characteristics of passive radio interference filters and suppression components
+- 		Radio interference characteristics of overhead power lines and high voltage equipment. Part 1: Description of phenomena
+- 		Radio interference characteristics of overhead power lines and high voltage equipment. Part 2: Methods of measurement and procedures for determining limits
+- 		Radio interference characteristics of overhead power lines and high-voltage equipment - Part 3: Code of practice for minimizing the generation of radio noise
+- 		Vehicles, boats and internal combustion engines - Radio disturbance characteristics - Limits and methods of measurement for the protection of on-board receivers
+- 		Electromagnetic compatibility of multimedia equipment - Emission requirements (this replaced CISPR 13 and CISPR 22)Product family standards - immunity
+- 		Electromagnetic compatibility - Requirements for household appliances, electric tools and similar apparatus - Part 2: Immunity
+- 		Electromagnetic compatibility of multimedia equipment - Immunity requirements (this replaced CISPR 20 and CISPR 24)Technical reports
+- 	Specification for radio disturbance and immunity measuring apparatus and methods - Part 2-5: In situ measurements for disturbing emissions produced by physically large equipment 
+- 	Specification for radio disturbance and immunity measuring apparatus and methods - Part 3: CISPR technical reports
+-	 Specification for radio disturbance and immunity measuring apparatus and methods - Part 4-1: Uncertainties, statistics and limit modelling - Uncertainties in standardized EMC tests
+- 	Specification for radio disturbance and immunity measuring apparatus and methods - Part 4-3: Uncertainties, statistics and limit modelling - Statistical considerations in the determination of EMC compliance of mass-produced products
+- 	Specification for radio disturbance and immunity measuring apparatus and methods - Part 4-4: Uncertainties, statistics and limit modelling - Statistics of complaints and a model for the calculation of limits for the protection of radio services
+- 	Specification for radio disturbance and immunity measuring apparatus and methods - Part 4-5: Uncertainties, statistics and limit modelling - Conditions for the use of alternative test methods
+- 		Industrial, scientific and medical equipment (ISM) - Guidelines for emission levels within the bands designated by the ITU
+- 		Television broadcast receivers and associated equipment - Immunity characteristics - Methods of objective picture assessment
+- 	Test method on electromagnetic emissions - Part 1: Electronic control gear for single- and double-capped fluorescent lamps
+- 	Test method on electromagnetic emissions - Part 2: Electronic control gear for discharge lamps excluding fluorescent lamps
+ Road vehicles - Electrical disturbances from conduction and coupling
+ Road vehicles - Electrical disturbances from conduction and coupling - Part 1: Definitions and general considerations
+ Road vehicles -Electrical disturbances from conduction and coupling - Part 2: Electrical transient conduction along supply lines only
+ Road vehicles -Electrical disturbances from conduction and coupling - Part 3: Electrical transient transmission by capacitive and inductive coupling via lines other than supply lines
+ Road vehicles -Electrical disturbances from conduction and coupling - Part 4: Electrical transient conduction along shielded high voltage supply lines only
+  Road vehicles -Electrical disturbances from conduction and coupling - Part 5: Enhanced definitions and verification methods for harmonization of pulse generators according to ISO 7637
+	 Road vehicles -Vehicle test methods
+ Road vehicles - Vehicle test methods for electrical disturbances from narrow band electromagnetic energy - Part 1: General principles and terminology
+ Road vehicles -Vehicle test methods for electrical disturbances from narrow band electromagnetic energy - Part 2: Off-vehicle radiation sources
+ Road vehicles -Vehicle test methods for electrical disturbances from narrowband radiated electromagnetic energy - Part 3: On-board transmitter simulation
+ Road vehicles -Vehicle test methods for electrical disturbances from narrowband radiated electromagnetic energy - Part 4: Bulk current injection (BCI)
+	 Road vehicles - Component test methods
+ Road vehicles -Component test methods for electrical disturbances from narrowband radiated electromagnetic energy - Part 1: General principles and terminology
+	 Road vehicles -Component test methods for electrical disturbances from narrowband radiated electromagnetic energy - Part 2: Absorber-lines shielded enclosure
+ Road vehicles -Component test methods for electrical disturbances from narrowband radiated electromagnetic energy - Part 3: Transverse electromagnetic mode (TEM) cell
+ Road vehicles -Component test methods for electrical disturbances from narrowband radiated electromagnetic energy - Part 4: Harness excitation methods
+	 Road Vehicles -Component test methods for electrical disturbances from narrowband radiated electromagnetic energy - Part 5: Stripline
+ Road Vehicles -Component test methods for electrical disturbances from narrowband radiated electromagnetic energy - Part 6: Parallel plate antenna
+ Road Vehicles -Component test methods for electrical disturbances from narrowband radiated electromagnetic energy - Part 7: Direct radio frequency (RF) power injection
+Road Vehicles -Component test methods for electrical disturbances from narrowband radiated electromagnetic energy - Part 8: Immunity to magnetic fields
+	Road Vehicles - Component test methods for electrical disturbances from narrowband radiated electromagnetic energy - Part 9: Portable transmitters
+Road Vehicles - Component test methods for electrical disturbances from narrowband radiated electromagnetic energy - Part 10: Immunity to conducted disturbances in the extended audio frequency range
+	Road Vehicles -Component test methods for electrical disturbances from narrowband radiated electromagnetic energy - Part 11: Reverberation chamber
+	Road Vehicles - Test methods for electrical disturbances from electrostatic discharge
+	Earthmoving Machinery - 		Electromagnetic Compatibility
+	Agricultural and forestry machinery@- Electromagnetic compatibility - Test methods and acceptance criteria
+	Road Vehicles - EMC guidelines for installation of aftermarket radio frequency transmitting equipment 
