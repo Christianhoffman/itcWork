@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 19 09:29:37 2019
 
-@author: henke
 """
 import numpy as np
 import matplotlib.pyplot as plt
@@ -716,3 +713,4 @@ print(newnearfield)
 #gtext(mstring('0.03'))
 #gtext(mstring('0.05'))
 #hold(mstring('off'))
+
