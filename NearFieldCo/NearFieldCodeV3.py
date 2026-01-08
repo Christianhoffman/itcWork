@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 import scipy.integrate as integrate
@@ -713,4 +713,5 @@ print(newnearfield)
 #gtext(mstring('0.03'))
 #gtext(mstring('0.05'))
 #hold(mstring('off'))
+
 
